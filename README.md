@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SRJ00/yogaposeclassifier/master?urlpath=%2Fvoila%2Frender%2Fyoga_pose_class.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NRG00/yogaposeclassifier/master?urlpath=%2Fvoila%2Frender%2Fyoga_pose_class.ipynb)
 
 # Classify your Yoga Pose
 
